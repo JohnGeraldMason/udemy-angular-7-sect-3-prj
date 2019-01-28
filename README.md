@@ -1,4 +1,7 @@
-# MyFirstApp
+# Course Project - Part 1
+
+![image](https://user-images.githubusercontent.com/2049888/51873211-abd96980-2332-11e9-83df-f2712b219a02.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
